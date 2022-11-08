@@ -4,7 +4,7 @@ import (
 	"go-redis/interface/resp"
 )
 
-func makeRouter() map[stirng]CmdFunc {
+func makeRouter() map[string]CmdFunc {
 	routerMap := make(map[string]CmdFunc)
 	routerMap["exists"] = defaultFunc
 	routerMap["type"] = defaultFunc

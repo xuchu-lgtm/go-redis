@@ -1,0 +1,17 @@
+[INFO][server.go:35] 2022/11/06 19:11:54 start listen
+[INFO][server.go:62] 2022/11/06 19:12:00 accepted link
+[INFO][server.go:45] 2022/11/06 19:14:18 shutting down
+[INFO][handler.go:86] 2022/11/06 19:14:18 handler shutting down
+[INFO][server.go:35] 2022/11/06 19:14:22 start listen
+[INFO][server.go:62] 2022/11/06 19:14:33 accepted link
+[INFO][handler.go:56] 2022/11/06 19:15:02 connection close 127.0.0.1:58922
+[INFO][server.go:62] 2022/11/06 19:15:54 accepted link
+[INFO][server.go:35] 2022/11/06 21:43:41 start listen
+[INFO][server.go:62] 2022/11/06 21:43:51 accepted link
+[INFO][server.go:45] 2022/11/06 21:48:45 shutting down
+[INFO][handler.go:86] 2022/11/06 21:48:45 handler shutting down
+[INFO][server.go:35] 2022/11/06 22:05:38 start listen
+[INFO][server.go:62] 2022/11/06 22:05:41 accepted link
+[INFO][handler.go:56] 2022/11/06 22:08:38 connection close 127.0.0.1:59343
+[INFO][server.go:45] 2022/11/06 22:08:47 shutting down
+[INFO][handler.go:86] 2022/11/06 22:08:47 handler shutting down
